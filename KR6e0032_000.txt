@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說菩薩十住經
+#+DATE: 2015-09-28 22:55:48.485776
+#+PROPERTY: JUAN 0
